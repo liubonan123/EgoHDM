@@ -14,3 +14,7 @@ We present an egocentric-inertial human motion capture system that simultaneousl
 - [ ] Release the full system code.
 
 - [ ] Release evaluation code.
+
+## Installation 💽
+
+### Step 1: create conda environment
