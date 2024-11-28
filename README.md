@@ -3,4 +3,4 @@
 Official code release for the following paper:
 "**EgoHDM: An Online Egocentric-Inertial Human Motion Capture, Localization, and Dense Mapping System**"
 
-![image](https://github.com/user-attachments/assets/ttteassser.png)
+![image](assets/ttteassser.png)
