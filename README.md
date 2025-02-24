@@ -1,4 +1,4 @@
-# EgoHDM
+# EgoHDM (We are building a dataset now, after that we will release the code and dataset together for evaluation.)
 [Paper](https://arxiv.org/abs/2409.00343) | [Project Page](https://handiyin.github.io/EgoHDM/) | [Video](https://www.youtube.com/watch?v=L6BIrTWWy_Y)
 
 Official code release for the following paper:
